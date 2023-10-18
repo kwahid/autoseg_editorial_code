@@ -1,6 +1,7 @@
 # autoseg_editorial_code
 
-Code to plot HECKTOR saturation figure for editorial titled "Evolving Horizons in Radiotherapy Auto-Contouring: Distilling Insights, Embracing Data-Centric Frameworks, and Moving Beyond Geometric Quantification". 
+Code to plot HECKTOR saturation figure for editorial titled "Evolving Horizons in Radiotherapy Auto-Contouring: Distilling Insights, Embracing Data-Centric Frameworks, and Moving Beyond Geometric Quantification". Preprint available on arXiv: 
+https://doi.org/10.48550/arXiv.2310.10867. Manuscript currently under review. 
 
 Contains Jupyter Notebook that references Excel file containing HECKTOR participant data. Data was directly copy pasted from corresponding tables in HECKTOR conference proceedings. 
 

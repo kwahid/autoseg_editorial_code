@@ -9,4 +9,4 @@ Source for 2020: https://link.springer.com/chapter/10.1007/978-3-030-67194-5_1/t
 
 Source for 2021: https://link.springer.com/chapter/10.1007/978-3-030-98253-9_1/tables/3
 
-Source for 2022: https://link.springer.com/chapter/10.1007/978-3-031-27420-6_1/tables/3
+Source for 2022: https://link.springer.com/chapter/10.1007/978-3-031-27420-6_1/tables/3 (only used results for GTVp)
